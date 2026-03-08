@@ -1,0 +1,925 @@
+PMID- 39166637
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240821
+LR  - 20241115
+IS  - 1726-4642 (Electronic)
+IS  - 1726-4634 (Print)
+IS  - 1726-4634 (Linking)
+VI  - 41
+IP  - 2
+DP  - 2024 Aug 19
+TI  - Effects of aerobic exercise on components of the metabolic syndrome in older 
+      adults with type 2 diabetes mellitus: systematic review and meta-analysis.
+PG  - 146-155
+LID - 10.17843/rpmesp.2024.412.12751 [doi]
+AB  - OBJECTIVE. To determine the effects of aerobic exercise on the components of the 
+      metabolic syndrome in older adult diabetic patients by means of a systematic 
+      review with meta-analysis. MATERIALS AND METHODS. We used the PubMed/Medline, 
+      Scopus, Cochrane library, Web of Science databases and the Google Scholar search 
+      engine. Randomized controlled trials (RCTs) were selected according to the 
+      inclusion criteria. Two reviewers independently determined whether studies met 
+      the inclusion criteria, extracted data, and used the Cochrane risk of bias tool 
+      (RoB 2). Quantitative analyses were performed in R v 4.0.5, using random effects. 
+      RESULTS. We identified 8697 studies, of which 7 RCTs were included in the 
+      qualitative synthesis. Most studies were assessed as having a high or low RoB in 
+      at least three domains. Meta-analysis showed that aerobic exercise was effective 
+      in improving glucose levels (standardized mean difference [SMD]: -1.04; 95% 
+      confidence interval [95% CI] -1.27, -0.81), systolic blood pressure (SMD: -0.79; 
+      95% CI: -1.02, -0.56), diastolic blood pressure (SMD: -0.75; 95% CI: -0.98, 
+      -0.52), glycosylated hemoglobin (SMD: -0.57, 95% CI: -0.77, -0.37), HDL (SMD: 
+      0.35, 95% CI: 0.15, 0.55), triglycerides (SMD: -0.26, 95% CI: -0.47, -0.06). No 
+      significant adverse effects were reported. The level of certainty of the results 
+      was low for fasting glucose, moderate for systolic and diastolic blood pressure, 
+      and very low for the other outcomes, in addition to few adverse effects. However, 
+      these results should be interpreted with caution due to the use of surrogate 
+      markers. CONCLUSIONS. Aerobic exercise was shown to have a significant 
+      improvement in the components of the metabolic syndrome in older diabetic adults, 
+      and no major adverse effects were reported. However, we recommend more RCTs with 
+      longer intervention time to establish the impact on symptoms and complications. 
+      Motivation for the study. The motivation for this research arises from the high 
+      prevalence of metabolic syndrome and diabetes mellitus around the world. Despite 
+      their impact, there is a gap in knowledge regarding non-pharmacological 
+      interventions in older adults aimed at improving the metabolic profile of these 
+      patients. Main findings. Our results show a significant improvement in glucose, 
+      blood pressure, glycosylated hemoglobin, HDL, and triglyceride levels after the 
+      aerobic exercise intervention. In addition, no significant adverse effects were 
+      observed. Public health implications. Physical exercise is an affordable and 
+      globally available strategy. It improves the metabolic profile of older adult 
+      patients with metabolic syndrome.
+FAU - Miranda-Tueros, Mercedes
+AU  - Miranda-Tueros M
+AUID- ORCID: 0000-0001-5894-6497
+AD  - Universidad Científica del Sur, Facultad de Ciencias de la Salud, Lima, Perú.
+FAU - Ramirez-Peña, Joshua
+AU  - Ramirez-Peña J
+AUID- ORCID: 0000-0001-7219-4949
+AD  - Universidad Científica del Sur, Facultad de Ciencias de la Salud, Lima, Perú.
+FAU - Cabanillas-Lazo, Miguel
+AU  - Cabanillas-Lazo M
+AUID- ORCID: 0000-0002-9976-0530
+AD  - Red de Eficacia Clínica y Sanitaria, REDECS, Lima, Perú.
+AD  - Universidad de Huánuco, Huánuco, Perú.
+FAU - Paz-Ibarra, José Luis
+AU  - Paz-Ibarra JL
+AUID- ORCID: 0000-0002-2851-3727
+AD  - Facultad de Medicina, Universidad Nacional Mayor de San Marcos, Lima, Perú.
+AD  - Hospital Nacional Edgardo Rebagliati Martins, Lima, Perú.
+FAU - Pinedo-Torres, Isabel
+AU  - Pinedo-Torres I
+AUID- ORCID: 0000-0003-4618-5103
+AD  - Grupo de Investigación NEURONECS: Neurociencia, efectividad clínica y salud 
+      pública, Universidad Científica del Sur, Lima, Perú.
+LA  - spa
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+TT  - Efectos del ejercicio aeróbico sobre los componentes del síndrome metabólico en 
+      adultos mayores con diabetes mellitus tipo 2: revisión sistemática y 
+      metaanálisis.
+DEP - 20240819
+PL  - Peru
+TA  - Rev Peru Med Exp Salud Publica
+JT  - Revista peruana de medicina experimental y salud publica
+JID - 101227566
+SB  - IM
+MH  - Humans
+MH  - *Metabolic Syndrome/therapy
+MH  - *Diabetes Mellitus, Type 2/therapy
+MH  - *Exercise/physiology
+MH  - Aged
+MH  - *Randomized Controlled Trials as Topic
+PMC - PMC11300696
+COIS- Conflict of interest.: All authors have declared that they have no conflicts of 
+      interest.
+EDAT- 2024/08/21 17:43
+MHDA- 2024/08/21 17:44
+PMCR- 2024/06/11
+CRDT- 2024/08/21 07:24
+PHST- 2023/03/30 00:00 [received]
+PHST- 2024/03/27 00:00 [accepted]
+PHST- 2024/08/21 17:44 [medline]
+PHST- 2024/08/21 17:43 [pubmed]
+PHST- 2024/08/21 07:24 [entrez]
+PHST- 2024/06/11 00:00 [pmc-release]
+AID - 10.17843/rpmesp.2024.412.12751 [doi]
+PST - epublish
+SO  - Rev Peru Med Exp Salud Publica. 2024 Aug 19;41(2):146-155. doi: 
+      10.17843/rpmesp.2024.412.12751.
+
+PMID- 38577191
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240408
+LR  - 20240619
+IS  - 2219-2840 (Electronic)
+IS  - 1007-9327 (Print)
+IS  - 1007-9327 (Linking)
+VI  - 30
+IP  - 9
+DP  - 2024 Mar 7
+TI  - From liver to hormones: The endocrine consequences of cirrhosis.
+PG  - 1073-1095
+LID - 10.3748/wjg.v30.i9.1073 [doi]
+AB  - Hepatocrinology explores the intricate relationship between liver function and 
+      the endocrine system. Chronic liver diseases such as liver cirrhosis can cause 
+      endocrine disorders due to toxin accumulation and protein synthesis disruption. 
+      Despite its importance, assessing endocrine issues in cirrhotic patients is 
+      frequently neglected. This article provides a comprehensive review of the 
+      epidemiology, pathophysiology, diagnosis, and treatment of endocrine disturbances 
+      in liver cirrhosis. The review was conducted using the PubMed/Medline, EMBASE, 
+      and Scielo databases, encompassing 172 articles. Liver cirrhosis is associated 
+      with endocrine disturbances, including diabetes, hypoglycemia, sarcopenia, 
+      thyroid dysfunction, hypogonadotropic hypogonadism, bone disease, adrenal 
+      insufficiency, growth hormone dysfunction, and secondary hyperaldosteronism. The 
+      optimal tools for diagnosing diabetes and detecting hypoglycemia are the oral 
+      glucose tolerance test and continuous glucose monitoring system, respectively. 
+      Sarcopenia can be assessed through imaging and functional tests, while other 
+      endocrine disorders are evaluated using hormonal assays and imaging studies. 
+      Treatment options include metformin, glucagon-like peptide-1 analogs, 
+      sodium-glucose co-transporter-2 inhibitors, and insulin, which are effective and 
+      safe for diabetes control. Established standards are followed for managing 
+      hypoglycemia, and hormone replacement therapy is often necessary for other 
+      endocrine dysfunctions. Liver transplantation can address some of these problems.
+CI  - ©The Author(s) 2024. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Quiroz-Aldave, Juan Eduardo
+AU  - Quiroz-Aldave JE
+AD  - Non-communicable Diseases, Endocrinology Research Line, Hospital de Apoyo Chepén, 
+      Chepén 13871, Peru.
+FAU - Gamarra-Osorio, Elman Rolando
+AU  - Gamarra-Osorio ER
+AD  - Department of Endocrinology, Hospital Víctor Lazarte Echegaray, Trujillo 13006, 
+      Peru.
+FAU - Durand-Vásquez, María Del Carmen
+AU  - Durand-Vásquez MDC
+AD  - Non-communicable Diseases, Endocrinology Research Line, Hospital de Apoyo Chepén, 
+      Chepén 13871, Peru.
+FAU - Rafael-Robles, Luciana Del Pilar
+AU  - Rafael-Robles LDP
+AD  - Department of Endocrinology, Clínica Javier Prado, Lima 15046, Peru.
+FAU - Gonzáles-Yovera, Jhean Gabriel
+AU  - Gonzáles-Yovera JG
+AD  - Department of Gastroenterology, Hospital Nacional Guillermo Almenara Irigoyén, 
+      Lima 15018, Peru.
+FAU - Quispe-Flores, María Alejandra
+AU  - Quispe-Flores MA
+AD  - Department of Endocrinology, Hospital de Emergencias Grau, Lima 15001, Peru.
+FAU - Concepción-Urteaga, Luis Alberto
+AU  - Concepción-Urteaga LA
+AD  - Internal Medicine, Hospital Regional Docente de Trujillo, Trujillo 13011, Peru.
+FAU - Román-González, Alejandro
+AU  - Román-González A
+AD  - Department of Endocrinology, Hospital Universitario de San Vicente Fundación, 
+      Medellin 050010, Colombia.
+AD  - Internal Medicine, Universidad de Antioquia, Medellín 050010, Colombia.
+FAU - Paz-Ibarra, José
+AU  - Paz-Ibarra J
+AD  - School of Medicine, Universidad Nacional Mayor de San Marcos, Lima 15081, Peru.
+AD  - Department of Endocrinology, Hospital Nacional Edgardo Rebagliati Martins, Lima 
+      15072, Peru.
+FAU - Concepción-Zavaleta, Marcio José
+AU  - Concepción-Zavaleta MJ
+AD  - Carrera de Medicina Humana, Universidad Científica del Sur, Lima 15067, Peru. 
+      mconcepcion@cientifica.edu.pe.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - World J Gastroenterol
+JT  - World journal of gastroenterology
+JID - 100883448
+RN  - 0 (Blood Glucose)
+RN  - 0 (Insulin)
+SB  - IM
+MH  - Humans
+MH  - Blood Glucose Self-Monitoring
+MH  - *Sarcopenia/diagnosis/etiology/therapy
+MH  - Blood Glucose/metabolism
+MH  - Liver Cirrhosis/complications/diagnosis/therapy
+MH  - Endocrine System/metabolism
+MH  - *Diabetes Mellitus/epidemiology
+MH  - Insulin/therapeutic use
+MH  - *Hypoglycemia/complications
+PMC - PMC10989500
+OTO - NOTNLM
+OT  - Diabetes mellitus
+OT  - Hypoglycemia
+OT  - Hypogonadism
+OT  - Liver cirrhosis
+OT  - Metabolic bone diseases
+OT  - Thyroid diseases
+COIS- Conflict-of-interest statement: The authors declare no competing financial 
+      interests.
+EDAT- 2024/04/05 06:44
+MHDA- 2024/04/08 06:42
+PMCR- 2024/03/07
+CRDT- 2024/04/05 04:04
+PHST- 2023/11/04 00:00 [received]
+PHST- 2024/01/02 00:00 [revised]
+PHST- 2024/02/06 00:00 [accepted]
+PHST- 2024/04/08 06:42 [medline]
+PHST- 2024/04/05 06:44 [pubmed]
+PHST- 2024/04/05 04:04 [entrez]
+PHST- 2024/03/07 00:00 [pmc-release]
+AID - 10.3748/wjg.v30.i9.1073 [doi]
+PST - ppublish
+SO  - World J Gastroenterol. 2024 Mar 7;30(9):1073-1095. doi: 10.3748/wjg.v30.i9.1073.
+
+PMID- 1804329
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19920506
+LR  - 20061115
+IS  - 1022-5129 (Print)
+IS  - 1022-5129 (Linking)
+VI  - 11
+IP  - 1
+DP  - 1991
+TI  - [Gastric cancer].
+PG  - 49-62
+AB  - Gastric cancer, especially adenocarcinoma, is variable in incidence on the world. 
+      In this paper, there is a review of the epidemiology and the etiopathogenic 
+      factors of the disease: genetics, hereditary, immunologic and environmental and, 
+      also, of the so called precursor diseases: atrophic gastritis and intestinal 
+      metaplasia, gastric adenoma, gastrectomized patients, pernicious anemia and 
+      Menetrier's disease. There is an explanation about the changes of the gastric 
+      epithelium related both with the intestinal and diffuse type of adenocarcinoma; 
+      the anatomo-pathological notion of macroscopic advanced-Borrmann and early 
+      cancer-Japanese classification and the clinical and diagnostic procedures are 
+      included with the fundamentals of therapeutic management.
+FAU - Espejo Romero, H
+AU  - Espejo Romero H
+AD  - Universidad Nacional Mayor de San Marcos, Jefe del Departamento de Medicina, 
+      Hospital Nacional Edgardo Rebagliati Martins-IPSS, Lima, Perú.
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Cáncer gástrico.
+PL  - Peru
+TA  - Rev Gastroenterol Peru
+JT  - Revista de gastroenterologia del Peru : organo oficial de la Sociedad de 
+      Gastroenterologia del Peru
+JID - 9108294
+SB  - IM
+MH  - Diagnosis, Differential
+MH  - Humans
+MH  - Precancerous Conditions/classification/diagnosis/etiology/therapy
+MH  - Prognosis
+MH  - *Stomach Neoplasms/classification/diagnosis/etiology/therapy
+MH  - Syndrome
+MH  - Time Factors
+RF  - 29
+EDAT- 1991/01/01 00:00
+MHDA- 1991/01/01 00:01
+CRDT- 1991/01/01 00:00
+PHST- 1991/01/01 00:00 [pubmed]
+PHST- 1991/01/01 00:01 [medline]
+PHST- 1991/01/01 00:00 [entrez]
+PST - ppublish
+SO  - Rev Gastroenterol Peru. 1991;11(1):49-62.
+
+PMID- 41025003
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250930
+LR  - 20251008
+IS  - 2219-2840 (Electronic)
+IS  - 1007-9327 (Print)
+IS  - 1007-9327 (Linking)
+VI  - 31
+IP  - 37
+DP  - 2025 Oct 7
+TI  - Efficacy and safety of anti-obesity drugs in metabolic dysfunction-associated 
+      steatotic liver disease: An updated review.
+PG  - 111435
+LID - 10.3748/wjg.v31.i37.111435 [doi]
+LID - 111435
+AB  - Obesity is a major driver of metabolic dysfunction-associated steatotic liver 
+      disease (MASLD) and its progressive form, metabolic dysfunction-associated 
+      steatohepatitis (MASH). As the global prevalence of obesity continues to rise, 
+      the burden of MASLD/MASH is increasing, posing significant challenges to 
+      healthcare systems. The use of anti-obesity medications (AOMs) in this population 
+      is complex due to altered hepatic metabolism, safety concerns, and potential 
+      hepatotoxicity. Recent advances in pharmacologic agents, such as glucagon-like 
+      peptide-1 (GLP-1) receptor agonists (GLP-1 RAs), dual GLP-1/glucose-gastric 
+      inhibitory polypeptide (GIP) agonists, and triple GLP-1/GIP/glucagon agonists, 
+      have shown promising metabolic effects in the general population. Among these, 
+      GLP-1 RAs (e.g., liraglutide and semaglutide) consistently demonstrate hepatic 
+      benefits, including reductions in hepatic steatosis, improvements in liver enzyme 
+      profiles, and attenuation of fibrosis progression. Tirzepatide, a dual GLP-1/GIP 
+      agonist, has shown superior weight loss effects compared to GLP-1 receptor 
+      agonist monotherapy, with emerging but still limited data on hepatic outcomes in 
+      MASLD/MASH. Retatrutide, a triple agonist, has produced the most pronounced 
+      metabolic effects to date, although its impact on liver histology remains 
+      underexplored. Other AOMs, such as bupropion-naltrexone and 
+      phentermine-topiramate, require cautious use due to potential hepatotoxicity. 
+      Importantly, advanced MASLD may alter drug pharmacokinetics, underscoring the 
+      need for individualized therapy and close monitoring. This review provides an 
+      updated synthesis of the efficacy and safety of current and emerging AOMs in 
+      patients with MASLD/MASH and highlights the urgent need for further research to 
+      define optimal pharmacological strategies in this high-risk population.
+CI  - ©The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Concepción-Zavaleta, Marcio J
+AU  - Concepción-Zavaleta MJ
+AD  - Grupo de Investigación en Neurociencias, Metabolismo, Efectividad Clínica y 
+      Sanitaria, Universidad Científica del Sur, Lima 15067, Peru. 
+      mconcepcion@cientifica.edu.pe.
+FAU - Fuentes-Mendoza, Jenyfer M
+AU  - Fuentes-Mendoza JM
+AD  - Grupo de Investigación en Neurociencias, Metabolismo, Efectividad Clínica y 
+      Sanitaria, Universidad Científica del Sur, Lima 15067, Peru.
+FAU - Gonzáles-Yovera, Jhean G
+AU  - Gonzáles-Yovera JG
+AD  - Department of Gastroenterology, Hospital Nacional Guillermo Almenara Irigoyén, 
+      Lima 15018, Peru.
+FAU - Ruvalcaba-Barbosa, Gemma Y
+AU  - Ruvalcaba-Barbosa GY
+AD  - School of Medicine, Universidad Autónoma de San Luis Potosí, San Luis Potosi 
+      78210, Mexico.
+FAU - Cura-Rodríguez, Leonardo D
+AU  - Cura-Rodríguez LD
+AD  - School of Medicine, Universidad Autónoma de San Luis Potosí, San Luis Potosi 
+      78210, Mexico.
+FAU - González-Rodríguez, Josué S
+AU  - González-Rodríguez JS
+AD  - School of Medicine, Universidad Autónoma de San Luis Potosí, San Luis Potosi 
+      78210, Mexico.
+FAU - Concepción-Urteaga, Luis A
+AU  - Concepción-Urteaga LA
+AD  - School of Medicine, Universidad Nacional de Trujillo, Trujillo 13011, La 
+      Libertad, Peru.
+FAU - Pérez-Reyes, Aranza I
+AU  - Pérez-Reyes AI
+AD  - School of Medicine, Universidad Autónoma de San Luis Potosí, San Luis Potosi 
+      78210, Mexico.
+FAU - Quiroz-Aldave, Juan Eduardo
+AU  - Quiroz-Aldave JE
+AD  - Division of Medicine, Hospital de Apoyo Chepén, Chepén 13871, Peru.
+FAU - Paz-Ibarra, José
+AU  - Paz-Ibarra J
+AD  - School of Medicine, Universidad Nacional Mayor de San Marcos, Lima 15081, Peru.
+AD  - Department of Endocrinology, Edgardo Rebagliati Martins National Hospital, Lima 
+      15087, Peru.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - World J Gastroenterol
+JT  - World journal of gastroenterology
+JID - 100883448
+RN  - 0 (Anti-Obesity Agents)
+RN  - 0 (Glucagon-Like Peptide-1 Receptor Agonists)
+SB  - IM
+MH  - Humans
+MH  - *Obesity/drug therapy/complications/metabolism
+MH  - *Anti-Obesity Agents/therapeutic use/adverse effects/pharmacology
+MH  - Liver/pathology/drug effects/metabolism
+MH  - Glucagon-Like Peptide-1 Receptor Agonists
+MH  - Treatment Outcome
+MH  - *Non-alcoholic Fatty Liver Disease/drug therapy/etiology
+MH  - *Fatty Liver/drug therapy/etiology
+PMC - PMC12476660
+OTO - NOTNLM
+OT  - Anti-obesity medications
+OT  - Glucagon-like peptide-1 receptor agonists
+OT  - Metabolic dysfunction-associated steatohepatitis
+OT  - Metabolic dysfunction-associated steatotic liver disease
+OT  - Obesity
+OT  - Retatrutide
+OT  - Tirzepatide
+COIS- Conflict-of-interest statement: All the authors report no relevant conflicts of 
+      interest for this article.
+EDAT- 2025/09/30 06:36
+MHDA- 2025/09/30 06:37
+PMCR- 2025/10/07
+CRDT- 2025/09/30 04:17
+PHST- 2025/06/30 00:00 [received]
+PHST- 2025/07/24 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/30 06:37 [medline]
+PHST- 2025/09/30 06:36 [pubmed]
+PHST- 2025/09/30 04:17 [entrez]
+PHST- 2025/10/07 00:00 [pmc-release]
+AID - 10.3748/wjg.v31.i37.111435 [doi]
+PST - ppublish
+SO  - World J Gastroenterol. 2025 Oct 7;31(37):111435. doi: 10.3748/wjg.v31.i37.111435.
+
+PMID- 38957951
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241024
+LR  - 20241024
+IS  - 1096-8652 (Electronic)
+IS  - 0361-8609 (Linking)
+VI  - 99
+IP  - 10
+DP  - 2024 Oct
+TI  - EBV-positive diffuse large B-cell lymphoma, not otherwise specified: 2024 update 
+      on the diagnosis, risk-stratification, and management.
+PG  - 2002-2015
+LID - 10.1002/ajh.27430 [doi]
+AB  - DISEASE OVERVIEW: Epstein Barr virus-positive (EBV+) diffuse large B-cell 
+      lymphoma (DLBCL), not otherwise specified (NOS) is an aggressive B-cell lymphoma 
+      associated with EBV infection included in the WHO classification of lymphoid 
+      neoplasms since 2016. Although historically associated to poor prognosis, 
+      outcomes seem to have improved in the era of chemoimmunotherapy. DIAGNOSIS: The 
+      diagnosis is established through meticulous pathological evaluation. Detection of 
+      EBV-encoded RNA (EBER) is the standard diagnostic method. The ICC 2022 specifies 
+      EBV+ DLBCL, NOS as occurring when >80% of malignant cells express EBER, whereas 
+      the WHO-HAEM5 emphasizes that the majority of tumor cells should be EBER positive 
+      without setting a defined threshold. The differential diagnosis includes 
+      plasmablastic lymphoma, DLBCL associated with chronic inflammation, primary 
+      effusion lymphoma, among others. RISK-STRATIFICATION: The International 
+      Prognostic Index (IPI) and the Oyama score can be used for risk-stratification. 
+      The Oyama score includes age >70 years and presence of B symptoms. The expression 
+      of CD30 and PD-1/PD-L1 are emerging as potential adverse but targetable 
+      biomarkers. MANAGEMENT: Patients with EBV+ DLBCL, NOS, should be staged and 
+      managed following similar guidelines than patients with EBV-negative DLBCL. EBV+ 
+      DLBCL, NOS, however, might have a worse prognosis than EBV-negative DLBCL in the 
+      era of chemoimmunotherapy. Therefore, inclusion of patients in clinical trials 
+      when available is recommended. There is an opportunity to study and develop 
+      targeted therapy in the management of patients with EBV+ DLBCL, NOS.
+CI  - © 2024 Wiley Periodicals LLC.
+FAU - Malpica, Luis
+AU  - Malpica L
+AUID- ORCID: 0000-0002-7082-1846
+AD  - Department of Lymphoma and Myeloma, The University of Texas MD Anderson Cancer 
+      Center, Houston, Texas, USA.
+FAU - Marques-Piubelli, Mario L
+AU  - Marques-Piubelli ML
+AUID- ORCID: 0000-0002-6324-2096
+AD  - Department of Translational Molecular Pathology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas, USA.
+FAU - Beltran, Brady E
+AU  - Beltran BE
+AUID- ORCID: 0000-0003-4469-3817
+AD  - Department of Oncology and Radiotherapy, Hospital Nacional Edgardo Rebagliati 
+      Martins, Lima, Peru, Instituto de Ciencias Biomédicas, Universidad Ricardo Palma, 
+      Lima, Peru.
+FAU - Chavez, Julio C
+AU  - Chavez JC
+AUID- ORCID: 0000-0002-2045-6238
+AD  - Department of Malignant Hematology, H. Lee Moffitt Cancer Center and Research 
+      Institute, Tampa, Florida, USA.
+FAU - Miranda, Roberto N
+AU  - Miranda RN
+AUID- ORCID: 0000-0002-8467-5464
+AD  - Department of Hematopathology, The University of Texas MD Anderson Cancer Center, 
+      Houston, Texas, USA.
+FAU - Castillo, Jorge J
+AU  - Castillo JJ
+AUID- ORCID: 0000-0001-9490-7532
+AD  - Division of Hematologic Malignancies, Dana-Farber Cancer Institute, Harvard 
+      Medical School, Boston, Massachusetts, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240703
+PL  - United States
+TA  - Am J Hematol
+JT  - American journal of hematology
+JID - 7610369
+SB  - IM
+MH  - Humans
+MH  - *Lymphoma, Large B-Cell, Diffuse/diagnosis/therapy
+MH  - *Epstein-Barr Virus Infections/complications
+MH  - Herpesvirus 4, Human
+MH  - Risk Assessment
+MH  - Prognosis
+MH  - Disease Management
+EDAT- 2024/07/03 06:42
+MHDA- 2024/10/24 12:29
+CRDT- 2024/07/03 04:42
+PHST- 2024/06/16 00:00 [revised]
+PHST- 2024/05/15 00:00 [received]
+PHST- 2024/06/24 00:00 [accepted]
+PHST- 2024/10/24 12:29 [medline]
+PHST- 2024/07/03 06:42 [pubmed]
+PHST- 2024/07/03 04:42 [entrez]
+AID - 10.1002/ajh.27430 [doi]
+PST - ppublish
+SO  - Am J Hematol. 2024 Oct;99(10):2002-2015. doi: 10.1002/ajh.27430. Epub 2024 Jul 3.
+
+PMID- 32876231
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210408
+LR  - 20210408
+IS  - 1726-4642 (Electronic)
+IS  - 1726-4634 (Linking)
+VI  - 37
+IP  - 2
+DP  - 2020 Apr-Jun
+TI  - [Not Available].
+PG  - 367-370
+LID - 10.17843/rpmesp.2020.372.4773 [doi]
+AB  - Critical asthma syndrome is the most severe consequence of an acute asthma 
+      exacerbation. Allergic bronchopulmonary aspergillosis is one of the most frequent 
+      pathologies that mimic critical asthma syndrome and is associated with a high 
+      mortality risk when timely diagnosis is not achieved in difficult-to-control 
+      asthmatic patients. We present the case of a 15-year-old male who was admitted to 
+      the intensive care unit with critical asthma signs and symptoms, where a 
+      diagnosis of allergic bronchopulmonary aspergillosis was made. He responded 
+      favorably with voriconazole and corticoids. In our context, the diagnosis of 
+      allergic bronchopulmonary aspergillosis should be considered in all patients with 
+      critical asthma or with a chronic lung disease that is difficult to control. 
+      Early diagnosis and treatment improve the quality of life and prognosis of 
+      patients.
+FAU - Vences, Miguel A
+AU  - Vences MA
+AUID- ORCID: 0000-0002-8538-6242
+AD  - Departamento de Neurología, Hospital Nacional Edgardo Rebagliati Martins, Lima, 
+      Perú.
+FAU - Manrique Villegas, Carol
+AU  - Manrique Villegas C
+AUID- ORCID: 0000-0001-9156-3420
+AD  - Servicio de Neumología. Departamento de Neumología, Hospital Nacional Edgardo 
+      Rebagliati Martins, Lima, Perú.
+FAU - Mogollon-Lavi, Julissa
+AU  - Mogollon-Lavi J
+AUID- ORCID: 0000-0002-6984-2340
+AD  - Departamento de Medicina Interna, Hospital Nacional Edgardo Rebagliati Martins, 
+      Lima, Perú.
+FAU - Arias-Rojas, Tatiana
+AU  - Arias-Rojas T
+AUID- ORCID: 0000-0002-7903-5649
+AD  - Servicio de Neumología. Departamento de Neumología, Hospital Nacional Edgardo 
+      Rebagliati Martins, Lima, Perú.
+FAU - Barriga Cari, Fernando
+AU  - Barriga Cari F
+AUID- ORCID: 0000-0003-3706-668X
+AD  - Departamento de Cuidados Intensivos, Hospital Nacional Edgardo Rebagliati 
+      Martins, Lima, Perú.
+LA  - spa
+PT  - Case Reports
+PT  - Journal Article
+TT  - Asma crítica asociada a aspergilosis broncopulmonar alérgica: reporte de un caso.
+DEP - 20200828
+PL  - Peru
+TA  - Rev Peru Med Exp Salud Publica
+JT  - Revista peruana de medicina experimental y salud publica
+JID - 101227566
+SB  - IM
+MH  - Adolescent
+MH  - *Aspergillosis, Allergic Bronchopulmonary/diagnosis
+MH  - *Asthma/complications
+MH  - Critical Illness
+MH  - Humans
+MH  - Male
+EDAT- 2020/09/03 06:00
+MHDA- 2021/04/10 06:00
+CRDT- 2020/09/03 06:00
+PHST- 2019/08/30 00:00 [received]
+PHST- 2020/05/06 00:00 [accepted]
+PHST- 2020/09/03 06:00 [entrez]
+PHST- 2020/09/03 06:00 [pubmed]
+PHST- 2021/04/10 06:00 [medline]
+AID - 10.17843/rpmesp.2020.372.4773 [doi]
+PST - ppublish
+SO  - Rev Peru Med Exp Salud Publica. 2020 Apr-Jun;37(2):367-370. doi: 
+      10.17843/rpmesp.2020.372.4773. Epub 2020 Aug 28.
+
+PMID- 38258451
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240510
+LR  - 20240522
+IS  - 1744-8417 (Electronic)
+IS  - 1744-6651 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2024 May
+TI  - Drug-induced hypothyroidism in tuberculosis.
+PG  - 199-206
+LID - 10.1080/17446651.2024.2307525 [doi]
+AB  - INTRODUCTION: Adverse reactions to tuberculosis treatment can impact patient 
+      adherence and prognosis. Hypothyroidism is a frequent adverse reaction caused 
+      using ethionamide, prothionamide, and para-aminosalicylic acid and is often 
+      underdiagnosed. AREAS COVERED: We searched Scielo, Scopus, and EMBASE databases, 
+      including 67 articles. Antitubercular drug-induced hypothyroidism has a 
+      prevalence of 17%. It occurs after 2 to 3 months of treatment and resolves within 
+      4 to 6 weeks after discontinuation. It is postulated to result from the 
+      inhibition of thyroperoxidase function, blocking thyroid hormone synthesis. 
+      Symptoms are nonspecific, necessitating individualized thyroid-stimulating 
+      hormone measurement for detection. Specific guidelines for management are 
+      lacking, but initiation of treatment with levothyroxine, as is customary for 
+      primary hypothyroidism, is recommended. Discontinuation of antitubercular drugs 
+      is discouraged, as it may lead to unfavorable consequences. EXPERT OPINION: 
+      Antitubercular drug-induced hypothyroidism is more common than previously 
+      thought, affecting one in six MDR-TB patients. Despite diagnostic and treatment 
+      recommendations, implementation is hindered in low-income countries due to the 
+      lack of certified laboratories. New drugs for tuberculosis treatment may affect 
+      thyroid function, requiring vigilant monitoring for complications, including 
+      hypothyroidism.
+FAU - Quiroz-Aldave, Juan Eduardo
+AU  - Quiroz-Aldave JE
+AUID- ORCID: 0000-0001-8286-095X
+AD  - Division of Non-communicable diseases, Endocrinology research line, Hospital de 
+      Apoyo Chepén, Chepén, Perú.
+FAU - Durand-Vásquez, María Del Carmen
+AU  - Durand-Vásquez MDC
+AUID- ORCID: 0000-0001-7862-9333
+AD  - Division of Non-communicable diseases, Endocrinology research line, Hospital de 
+      Apoyo Chepén, Chepén, Perú.
+FAU - Gamarra-Osorio, Elman Rolando
+AU  - Gamarra-Osorio ER
+AUID- ORCID: 0000-0003-3707-5340
+AD  - Division of Endocrinology, Hospital Víctor Lazarte Echegaray, Trujillo, Perú.
+FAU - Concepción-Urteaga, Luis Alberto
+AU  - Concepción-Urteaga LA
+AUID- ORCID: 0000-0003-0462-3101
+AD  - Division of Pneumology, Hospital Regional Docente de Trujillo, Trujillo, Perú.
+FAU - Pecho-Silva, Samuel
+AU  - Pecho-Silva S
+AUID- ORCID: 0000-0002-7477-9841
+AD  - Carrera de Medicina Humana, Universidad Científica del Sur, Lima, Perú.
+AD  - Division of Pneumology, Hospital Nacional Edgardo Rebagliati Martins, Lima, Perú.
+FAU - Rodríguez-Hidalgo, Luis Alejandro
+AU  - Rodríguez-Hidalgo LA
+AUID- ORCID: 0000-0001-9459-0707
+AD  - Division of Pneumology, Hospital Regional Docente de Trujillo, Trujillo, Perú.
+FAU - Concepción-Zavaleta, Marcio José
+AU  - Concepción-Zavaleta MJ
+AUID- ORCID: 0000-0001-9719-1875
+AD  - Carrera de Medicina Humana, Universidad Científica del Sur, Lima, Perú.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240123
+PL  - England
+TA  - Expert Rev Endocrinol Metab
+JT  - Expert review of endocrinology & metabolism
+JID - 101278293
+RN  - 0 (Antitubercular Agents)
+SB  - IM
+MH  - Humans
+MH  - *Hypothyroidism/chemically induced
+MH  - *Antitubercular Agents/adverse effects/therapeutic use
+MH  - *Tuberculosis/drug therapy
+OTO - NOTNLM
+OT  - Hypothyroidism
+OT  - aminosalicylic acid
+OT  - drug-related side effects and adverse reactions
+OT  - ethionamide
+OT  - multidrug-resistant tuberculosis
+OT  - prothionamide
+EDAT- 2024/01/23 06:43
+MHDA- 2024/05/10 06:42
+CRDT- 2024/01/23 03:37
+PHST- 2024/05/10 06:42 [medline]
+PHST- 2024/01/23 06:43 [pubmed]
+PHST- 2024/01/23 03:37 [entrez]
+AID - 10.1080/17446651.2024.2307525 [doi]
+PST - ppublish
+SO  - Expert Rev Endocrinol Metab. 2024 May;19(3):199-206. doi: 
+      10.1080/17446651.2024.2307525. Epub 2024 Jan 23.
+
+PMID- 22476120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120806
+LR  - 20220408
+IS  - 1609-722X (Electronic)
+IS  - 1022-5129 (Linking)
+VI  - 31
+IP  - 4
+DP  - 2011 Oct-Dec
+TI  - [Choledocholithiasis in Edgardo Rebagliati Martins Hospital. Lima-Peru. 
+      2010-2011. Incidence, risk factors, diagnostic and therapeutic aspects].
+PG  - 324-9
+AB  - OBJECTIVE: to determine the incidence, frequency of risk factors, diagnostic 
+      aspects (clinics, biochemical, and images) and therapeutic aspects of the 
+      choledocholithiasis. PATIENTS AND METHODS: Descriptive and prospective analysis 
+      of 51 patients who signed informed consent for study of choledocholithiasis by 
+      ERCP (endoscopic retrograde cholangiopancreatography). RESULTS: Of the 51 
+      patients, 36 (70.6%) confirmed choledocholithiasis by ERCP. Its incidence was 
+      10.4%. The mean age was 63.75 years, BMI 25.59 kg/m2 and 55.6% were women. 
+      Abdominal pain was present in 94.4% of patients. Total bilirubin in the group 
+      with choledocholithiasis was 5.8 mg / dl at baseline and 4.2 mg / dl in 
+      hospitalization. 11.1% debuted with pancreatitis and 30.6% with cholangitis. In 
+      68.7% of patients with cholangitis was confirmed choledocholithiasis by ERCP. The 
+      specificity of ultrasound was 0.80 (95% CI 0.6- 1). The specificity of the 
+      nuclear magnetic resonance was 0.25 (95% CI 0.17-0.67). Of the 51 patients with 
+      ERCP, 4 (7.80%) do pancreatitis, 1(1.96%) cholangitis and 2 (3.92%) bleeding 
+      CONCLUSIONS: Choledocholithiasis occurs in older people, female and overweight 
+      with an incidence of 10.4%. Abdominal pain is the most common symptom. A total 
+      bilirubin more tan 4mg/dl occurs in patients with choledocholithiasis. The 
+      complications of choledocholithiasis (pancreatitis and cholangitis) were more 
+      frequent than reported in the literature. Both the specificity of cholangitis for 
+      choledocholithiasis, the specificity of ultrasound and the specificity of the 
+      nuclear magnetic resonance were lower than reported in the literature. ERCP 
+      complications were slightly higher than that reported in the literature.
+FAU - Llatas Pérez, Juan
+AU  - Llatas Pérez J
+AD  - Hospital Nacional Edgardo Rebagliati Martins (2010-2011) - Departamento del 
+      Aparato Digestivo. Lima-Perú. drjuanllatas@hotmail.com
+FAU - Hurtado Roca, Yamilee
+AU  - Hurtado Roca Y
+FAU - Frisancho Velarde, Oscar
+AU  - Frisancho Velarde O
+LA  - spa
+PT  - Clinical Trial
+PT  - English Abstract
+PT  - Journal Article
+TT  - Coledocolitiasis en el Hospital Edgardo Rebagliati Martins. Lima-Perú. 2010-2011: 
+      Incidencia, Factores de Riesgo, Aspectos Diagnósticos y Terapéuticos.
+PL  - Peru
+TA  - Rev Gastroenterol Peru
+JT  - Revista de gastroenterologia del Peru : organo oficial de la Sociedad de 
+      Gastroenterologia del Peru
+JID - 9108294
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cholangiopancreatography, Endoscopic Retrograde
+MH  - Cholangitis/etiology
+MH  - *Choledocholithiasis/complications/diagnosis/epidemiology/therapy
+MH  - Female
+MH  - Hospitalization
+MH  - Humans
+MH  - Incidence
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Pancreatitis/etiology
+MH  - Peru
+MH  - Prospective Studies
+MH  - Risk Factors
+MH  - Sensitivity and Specificity
+EDAT- 2012/04/06 06:00
+MHDA- 2012/08/07 06:00
+CRDT- 2012/04/06 06:00
+PHST- 2012/04/06 06:00 [entrez]
+PHST- 2012/04/06 06:00 [pubmed]
+PHST- 2012/08/07 06:00 [medline]
+AID - 04 [pii]
+PST - ppublish
+SO  - Rev Gastroenterol Peru. 2011 Oct-Dec;31(4):324-9.
+
+PMID- 40575339
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250627
+LR  - 20250628
+IS  - 2219-2840 (Electronic)
+IS  - 1007-9327 (Print)
+IS  - 1007-9327 (Linking)
+VI  - 31
+IP  - 23
+DP  - 2025 Jun 21
+TI  - Hepatocellular carcinoma in patients without cirrhosis.
+PG  - 107100
+LID - 10.3748/wjg.v31.i23.107100 [doi]
+LID - 107100
+AB  - Hepatocellular carcinoma (HCC) is the most common type of primary liver cancer, 
+      the sixth most common cancer worldwide, and the third leading cause of 
+      cancer-related death. Cirrhosis is the predominant risk factor for HCC, driven by 
+      major etiologies including hepatitis B and C, excessive alcohol consumption, and 
+      metabolic dysfunction-associated steatotic liver disease (MASLD). While 
+      approximately 80% of HCC cases occur in patients with cirrhosis, its incidence 
+      among individuals without cirrhosis has significantly increased, particularly in 
+      developed countries, driven by the rising prevalence of MASLD. The prevalence of 
+      patients with non-cirrhotic HCC varies geographically, yet data on this subgroup 
+      remain limited. Consequently, screening and clinical management guidelines for 
+      patients with non-cirrhotic HCC are underdeveloped. Current surveillance is 
+      typically not recommended for non-cirrhotic populations, except for individuals 
+      with hepatitis B, and diagnostic criteria like Liver Imaging Reporting and Data 
+      System are designed explicitly for cirrhotic or hepatitis B-associated HCC. 
+      Furthermore, treatment strategies for non-cirrhotic HCC are often extrapolated 
+      from studies focused on patients with cirrhosis, leading to gaps in knowledge 
+      regarding treatment efficacy, survival outcomes, and etiological variability in 
+      non-cirrhotic cohorts. Thus, emerging evidence must be reviewed to guide the 
+      development of enhanced diagnostic and therapeutic strategies for patients with 
+      non-cirrhotic HCC. To address these gaps, we comprehensively reviewed the 
+      epidemiology, clinical and genetic characteristics, diagnostic modalities, and 
+      therapeutic approaches for patients with non-cirrhotic HCC.
+CI  - ©The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Sato-Espinoza, Karina
+AU  - Sato-Espinoza K
+AD  - Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, 
+      Rochester, MN 55902, United States.
+FAU - Valdivia-Herrera, Mayra
+AU  - Valdivia-Herrera M
+AD  - Escuela de Medicina Humana, Facultad de Ciencias de la Salud, Universidad 
+      Cientifica del Sur, Lima 15067, Peru.
+FAU - Chotiprasidhi, Perapa
+AU  - Chotiprasidhi P
+AD  - Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, 
+      Rochester, MN 55902, United States.
+FAU - Diaz-Ferrer, Javier
+AU  - Diaz-Ferrer J
+AD  - Hepatology Service, Department of Digestive Diseases, Hospital Nacional Edgardo 
+      Rebagliati Martins, Lima 15072, Peru.
+AD  - Department of Gastroenterology Service, Clinica Internacional, Lima 15036, Peru.
+AD  - Medicine Faculty, Universidad San Martin de Porres, Lima 15024, Peru. 
+      jodf13@hotmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - World J Gastroenterol
+JT  - World journal of gastroenterology
+JID - 100883448
+SB  - IM
+MH  - Humans
+MH  - *Carcinoma, Hepatocellular/therapy/epidemiology/diagnosis/etiology
+MH  - *Liver Neoplasms/therapy/epidemiology/diagnosis/etiology
+MH  - Risk Factors
+MH  - Liver Cirrhosis/epidemiology
+MH  - Prevalence
+MH  - Incidence
+MH  - Liver/pathology/diagnostic imaging
+MH  - Early Detection of Cancer
+PMC - PMC12188760
+OTO - NOTNLM
+OT  - Aflatoxin
+OT  - Hepatitis B
+OT  - Hepatitis C
+OT  - Hepatocellular carcinoma
+OT  - Metabolic dysfunction-associated steatotic liver disease
+OT  - Non-cirrhotic
+COIS- Conflict-of-interest statement: The authors have no conflicts of interest to 
+      declare.
+EDAT- 2025/06/27 06:27
+MHDA- 2025/06/27 06:28
+PMCR- 2025/06/21
+CRDT- 2025/06/27 04:52
+PHST- 2025/03/16 00:00 [received]
+PHST- 2025/04/22 00:00 [revised]
+PHST- 2025/05/27 00:00 [accepted]
+PHST- 2025/06/27 06:28 [medline]
+PHST- 2025/06/27 06:27 [pubmed]
+PHST- 2025/06/27 04:52 [entrez]
+PHST- 2025/06/21 00:00 [pmc-release]
+AID - 10.3748/wjg.v31.i23.107100 [doi]
+PST - ppublish
+SO  - World J Gastroenterol. 2025 Jun 21;31(23):107100. doi: 
+      10.3748/wjg.v31.i23.107100.
+
+PMID- 33148966
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210216
+LR  - 20210216
+IS  - 1531-698X (Electronic)
+IS  - 1040-8703 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2020 Dec
+TI  - Diagnosis of primary immunodeficiencies in Peru.
+PG  - 798-804
+LID - 10.1097/MOP.0000000000000964 [doi]
+AB  - PURPOSE OF REVIEW: Primary immunodeficiencies (PIDs) are human inborn errors of 
+      immunity, leading to an increased susceptibility to infections, inflammatory 
+      manifestations, and malignancy. We estimate around 16 000 individuals with PIDs 
+      living in Peru who are still undiagnosed. The purpose of this review is to make a 
+      situational analysis of the diagnosis of PIDs in Peru. RECENT FINDINGS: There is 
+      an evident underdiagnosis of PIDs in Peru. Insufficient awareness and lack of 
+      diagnostic tools can be solved partially by expanding the number and expertise of 
+      Clinical Immunologists and specialized medical centers. The availability of 
+      molecular testing at reasonable costs is mandatory to improve the diagnostic 
+      approach to patients with suspected PID. The development of didactic and 
+      innovative educational tools has been a critical strategy to improve PID 
+      awareness and diagnosis in Peru. SUMMARY: Developing countries like Peru still 
+      have critical limitations to diagnose patients with PIDs such as insufficient 
+      awareness in physicians, lack of specialized reference centers, and 
+      unavailability of confirmatory genetic testing. Joint work between government, 
+      health professionals, patient organizations, and society is essential to overcome 
+      these limitations and provide a better future for patients with inborn errors of 
+      immunity.
+FAU - Aldave-Becerra, Juan C
+AU  - Aldave-Becerra JC
+AD  - Allergy and Immunology Division, Hospital Nacional Edgardo Rebagliati Martins, 
+      Lima, Peru.
+FAU - Veramendi-Espinoza, Liz E
+AU  - Veramendi-Espinoza LE
+FAU - Rentería-Valdiviezo, Claudia A
+AU  - Rentería-Valdiviezo CA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Curr Opin Pediatr
+JT  - Current opinion in pediatrics
+JID - 9000850
+SB  - IM
+MH  - Humans
+MH  - Peru
+MH  - *Primary Immunodeficiency Diseases/diagnosis
+MH  - Undiagnosed Diseases
+EDAT- 2020/11/06 06:00
+MHDA- 2021/02/17 06:00
+CRDT- 2020/11/05 05:59
+PHST- 2020/11/06 06:00 [pubmed]
+PHST- 2021/02/17 06:00 [medline]
+PHST- 2020/11/05 05:59 [entrez]
+AID - 00008480-202012000-00014 [pii]
+AID - 10.1097/MOP.0000000000000964 [doi]
+PST - ppublish
+SO  - Curr Opin Pediatr. 2020 Dec;32(6):798-804. doi: 10.1097/MOP.0000000000000964.
