@@ -42,7 +42,8 @@
 # SECCION 0 — CONFIGURACION INICIAL
 # ==============================================================================
 # INSTRUCCION: Edita SOLO esta seccion. El resto lo puedes dejar como esta.
-
+library(bibliometrix)
+biblioshiny()
 # -- 0A. RUTAS A TUS ARCHIVOS --------------------------------------------------
 RUTA_SCOPUS  <- "data/scopus.bib"
 RUTA_WOS     <- "data/wos.bib"
